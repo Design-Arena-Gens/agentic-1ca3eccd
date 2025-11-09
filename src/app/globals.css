@@ -1,0 +1,11 @@
+*{box-sizing:border-box}html,body{padding:0;margin:0}a{color:inherit;text-decoration:none}input,select,button{font:inherit}
+.container{background:#0f172a;border:1px solid #1f2a44;border-radius:12px;padding:16px}
+.row{display:flex;gap:12px;flex-wrap:wrap}
+.card{background:#0b1220;border:1px solid #1c2540;border-radius:12px;padding:16px}
+.label{display:block;font-size:12px;opacity:.8;margin-bottom:6px}
+.input{background:#0e1627;border:1px solid #213055;color:#e6eef8;border-radius:8px;padding:10px;width:100%}
+.button{background:#2563eb;border:0;color:#fff;border-radius:8px;padding:10px 14px;cursor:pointer}
+.button.secondary{background:#334155}
+.table{width:100%;border-collapse:collapse}
+.table th,.table td{padding:8px 10px;border-bottom:1px solid #223253;font-size:13px}
+.alert{padding:10px 12px;border-radius:8px;background:#102a43;border:1px solid #1e3a5f;color:#8bd3ff}
